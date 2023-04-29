@@ -2,3 +2,5 @@ yeni kodlar yazdım
 
 push işlemi yapıldı
 pull işlemi yapıldı
+yeni yazdım herşeyi
+
