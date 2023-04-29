@@ -1,3 +1,4 @@
 yeni kodlar yazdım
 
 push işlemi yapıldı
+pull işlemi yapıldı
